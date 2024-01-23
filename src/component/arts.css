@@ -1,0 +1,142 @@
+#first {
+  display: inline;
+  border-radius: 40px;
+  width: 500px;
+  max-width: 100%;
+  transition: transform 0.5s ease-in-out;
+}
+
+#first:hover {
+    transform: scale(1.05);
+}
+
+#second:hover {
+    transform: scale(1.05);
+}
+
+#third:hover {
+    transform: scale(1.05);
+}
+
+#fourth:hover {
+    transform: scale(1.05);
+}
+
+#fifth:hover {
+    transform: scale(1.05);
+}
+
+#sixth:hover {
+    transform: scale(1.05);
+}
+
+#seventh:hover {
+    transform: scale(1.05);
+}
+
+#eighth:hover {
+    transform: scale(1.05);
+}
+
+#ninth:hover {
+    transform: scale(1.05);
+}
+
+#tenth:hover {
+    transform: scale(1.05);
+}
+
+.row2 {
+    text-align: center;
+}
+
+#second {
+    width: 400px;
+    margin-left: 8%;
+    border-radius: 20px;
+    margin-bottom: 10%;
+    margin-top: 10%;
+    max-width: 100%;
+    transition: transform 0.5s ease-in-out;
+}
+
+#third {
+    width: 600px;
+    max-width: 100%;
+    border-radius: 40px;
+    margin: auto;
+    float: right;
+    transition: transform 0.5s ease-in-out;
+}
+
+
+#fourth {
+    width: 550px;
+    border-radius: 40px;
+    transition: transform 0.5s ease-in-out;
+    margin-top: 10%;
+    max-width: 100%;
+}
+
+#fifth {
+    width: 400px;
+    border-radius: 30px;
+    max-width: 100%;
+    margin: auto;
+    position: relative;
+    margin-top: 10%;
+    transition: transform 0.5s ease-in-out;
+}
+
+#sixth {
+    width: 450px;
+    border-radius: 30px;
+    max-width: 100%;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    margin-left: 20px;
+    transition: transform 0.5s ease-in-out;
+}
+
+#seventh {
+    width: 330px;
+    max-width: 100%;
+    border-radius: 40px;
+    margin: 5% 3% 5% 0;
+    float: right;
+    transition: transform 0.5s ease-in-out;
+}
+
+.row4 {
+    text-align: center;
+}
+
+#tenth {
+    width: 900px;
+    max-width: 100%;
+    margin: auto;
+    float: none;
+    border-radius: 40px;
+    margin-top: 5%;
+    transition: transform 0.5s ease-in-out;
+}
+
+#eighth {
+    width: 500px;
+    max-width: 100%;
+    margin: auto;
+    float: left;
+    border-radius: 30px;
+    transition: transform 0.5s ease-in-out;
+    margin-top: 10%;
+}
+
+#ninth {
+    width: 500px;
+    max-width: 100%;
+    margin: auto;
+    float: right;
+    border-radius: 30px;
+    transition: transform 0.5s ease-in-out;
+    margin-top: 10%;
+}
