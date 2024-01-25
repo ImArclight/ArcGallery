@@ -1,10 +1,11 @@
 import React from 'react'
+import img1 from '../assets/UC.png'
 
 export default function About() {
   return (
     <div>
-        <section>
-            <h2>What're you doin here? There's nothing to see here</h2>
+        <section style={{textAlign:'center'}}>
+            <img style={{width:'800px'}} src={img1} alt="" />
         </section>
     </div>
   )
