@@ -12,7 +12,7 @@ export default function Main() {
         <section className='social' style={{textAlign:"center"}}>
             <div className='soc-icon'>
               <SocialIcon url="https://twitter.com/ImArclight" />
-              <SocialIcon url="https://www.instagram.com/fsptraaaa/" />
+              <SocialIcon url="https://www.instagram.com/fsptraaaa_altern/" />
               <SocialIcon network='discord' url="feikaa" />
               <SocialIcon url="https://open.spotify.com/user/fqpl0bx8cfx7awx3w5zocqm80" />
               <SocialIcon url="https://www.youtube.com/channel/UCNcoL9BnCSHqvusWeU_vmPw" />
