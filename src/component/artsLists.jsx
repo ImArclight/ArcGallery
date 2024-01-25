@@ -15,7 +15,7 @@ export default function ArtsLists() {
   return (
     <div>
       <h3>
-        Well anyway, this is some of my arts I draw since ......
+        Some of my art......
       </h3>
 
       <div className='row1'>

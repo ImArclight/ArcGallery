@@ -5,28 +5,28 @@ import './header.css'
 
 const Header = () => {
   return (
-    <nav>
+    <nav> 
       <div className='logo'>
-        <a>ArcArts</a>
+        <a>Profile</a>
       </div>
 
         <div class="menu">
             <ul>
                 <li>
-                  <Link to={"./about"}>
-                    <a>About</a>
+                  <Link to={"./art-lists"}>
+                    <a>Arts</a>
                   </Link>  
                 </li>
 
                 <li>
                   <Link to={"./other"}>
-                    <a>Others</a>
+                    <a>---</a>
                   </Link>  
                 </li>
 
                 <li>
                   <Link to={"./me"}>
-                    <a>Me</a>
+                    <a>Others</a>
                   </Link>  
                 </li>
 
