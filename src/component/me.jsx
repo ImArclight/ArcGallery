@@ -14,7 +14,7 @@ export default function Me() {
         <br/>
         <hr/>
         <section className='fgo'>
-          <h2>Fate/Grand Id</h2>
+          <h2>Fate/Grand JP</h2>
           <p className='fgo-id'>961,364,758</p>
           <img className='fgo-deck' src={art1} />
         </section>
@@ -36,6 +36,12 @@ export default function Me() {
           <h2>Reverse 21st Century</h2>
           <img className='rvr' src={art3} />
         </section>
+         <br/>
+          <hr/>
+          <section>
+            <h2>3rd Impact</h2>
+            <img style={{width:'500px'}} src={art4} alt="" />
+          </section>
     </div>
   )
 }
