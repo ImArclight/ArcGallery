@@ -13,6 +13,12 @@ export default function Me() {
         <h2 style={{textAlign:"center"}}>What is All This?????</h2>
         <br/>
         <hr/>
+        <section>
+          <h2>Fate/Grand NA</h2>
+          <img style={{width:'500px'}} src={art4} alt="" />
+        </section>
+        <br/>
+        <hr/>
         <section className='fgo'>
           <h2>Fate/Grand JP</h2>
           <p className='fgo-id'>961,364,758</p>
