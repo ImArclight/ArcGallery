@@ -3,6 +3,7 @@ import art1 from '../assets/fgo2.png'
 import art2 from '../assets/hsr1.png'
 import art3 from '../assets/Reverse1999.png'
 import art4 from '../assets/404.png'
+import art5 from '../assets/fgona.png'
 import './me.css'
 import { SocialIcon } from 'react-social-icons'
 
@@ -15,7 +16,8 @@ export default function Me() {
         <hr/>
         <section>
           <h2>Fate/Grand NA</h2>
-          <img style={{width:'500px'}} src={art4} alt="" />
+          <p className='fgo-id'>777,719,210</p>
+          <img style={{width:'500px'}} src={art5} alt="" />
         </section>
         <br/>
         <hr/>
