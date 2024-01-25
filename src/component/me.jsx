@@ -10,7 +10,7 @@ import { SocialIcon } from 'react-social-icons'
 export default function Me() {
   return (
     <div>
-        <h2>What is All This?????</h2>
+        <h2 style={{textAlign:"center"}}>What is All This?????</h2>
         <br/>
         <hr/>
         <section className='fgo'>
