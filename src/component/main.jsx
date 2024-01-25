@@ -10,7 +10,7 @@ export default function Main() {
         <Section1 /> 
         <hr/>
         <section className='social' style={{textAlign:"center"}}>
-            <div className='soc-icon'>
+            <div className='soc-icon' style={{margin:"4px"}}>
               <SocialIcon url="https://twitter.com/ImArclight" />
               <SocialIcon url="https://www.instagram.com/fsptraaaa_altern/" />
               <SocialIcon network='discord' url="feikaa" />
