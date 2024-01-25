@@ -36,12 +36,14 @@ export default function Me() {
         <hr/>
         <section>
           <h2>Rail Star Impact</h2>
+          <p className="fgo-id">810005936</p>
           <img className='hsr-prof' src={art2} />
         </section>
         <br/>
         <hr/>
         <section>
           <h2>Reverse 21st Century</h2>
+          <p className="fgo-id">409441134</p>
           <img className='rvr' src={art3} />
         </section>
          <br/>
