@@ -14,6 +14,7 @@ export default function Main() {
               <SocialIcon url="https://twitter.com/ImArclight" />
               <SocialIcon url="https://www.instagram.com/fsptraaaa_altern/" />
               <SocialIcon network='discord' url="feikaa" />
+              <SocialIcon network="Xbox" url="ImArclight7714" />
               <SocialIcon url="https://open.spotify.com/user/fqpl0bx8cfx7awx3w5zocqm80" />
               <SocialIcon url="https://www.youtube.com/channel/UCNcoL9BnCSHqvusWeU_vmPw" />
               <SocialIcon network='MAL' url="https://myanimelist.net/profile/FeiX_" />
